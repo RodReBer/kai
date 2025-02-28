@@ -10,7 +10,7 @@ export default function Home() {
           <div className="text-center space-y-4">
             <h1 className="text-2xl font-bold text-purple-700">Búsqueda del Tesoro Especial</h1>
             <p className="text-gray-600">
-              Hola! He preparado una pequeña aventura para ti. Sigue las pistas y encuentra un mensaje especial.
+              Hola! Te preparé una pequeña aventura para ti. Seguí las pistas y encontrá el mensaje especial.
             </p>
             <div className="py-4">
               <p className="text-purple-600 font-medium">Primera pista:</p>
