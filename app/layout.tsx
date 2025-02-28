@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Kaido <3',
-  description: 'Para cuando estes triste',
+  title: 'Brigadeiro',
+  description: 'Los lazos que importan resisten cualquier tempestad.',
   generator: 'Rodri',
 }
 
